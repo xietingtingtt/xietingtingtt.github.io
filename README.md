@@ -1,7 +1,7 @@
 # Real Name 
 xie tingting
 # Hobby
-[興味など](https://tingting545.wordpress.com),[testsite](https://xietingting.mki.biz)
+[興味など](https://tingting545.wordpress.com),[testsite](http://xietingting.mki.biz)
 # Subject
 [LMS 学習管理システムアクティブ・ラーニングに関する研究(2)](https://github.com/xietingtingtt/SmartLearning)
 # progress
